@@ -1,4 +1,3 @@
-
 open_file = open('python.txt', 'r')
 splitter = open_file.read().split()
 howMuch = 0
